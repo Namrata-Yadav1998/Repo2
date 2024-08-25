@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B424-2B37
+
+ Directory of C:\Users\yadav\OneDrive\Desktop\My Project
+
+25-08-2024  17:14    <DIR>          .
+25-08-2024  16:39    <DIR>          ..
+25-08-2024  17:14                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  367,451,803,648 bytes free
